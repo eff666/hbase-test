@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty:3.10.5.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.10.5.Final/netty-3.10.5.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.10.5.Final/netty-3.10.5.Final-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar!/META-INF" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar!/" />
+    </SOURCES>
+  </library>
+</component>
